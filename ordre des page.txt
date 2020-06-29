@@ -1,0 +1,28 @@
+A cause du manque de temps et du manque de membres actifs nous n'avons pas pu mettre tout ce dont le site avez besoin pour
+fonctionner ainsi on du improviser et tronquer certaines partie pour finir le travaille à temps.
+
+les pages sont simplements imbriquer les un des autres voici lordre
+
+index.html==>login.html==>Accueille.html==>cliquer sur salle des profs ==> dashboard.html
+
+listes des membres qui ont participé à la réalisation du projet:
+
+
+Developpeurs:
+-KHADETOU DIANIFABE :78 600 45 64 : ACTIF
+
+-ADAMA TRAORÉ : 78 152 58 56 :ACTIF
+
+-MOUSSA KANE: 77 451 90 41: ACTIF.
+
+-DABA FAYE:  77 785 72 96 : NON ACTIVE
+
+-ANTOINE NDY: 78 153 62 26: ACTIF.
+   Gestionneur de projet
+KHADIM RASSOUL SENE: 77 804 63 88: NON ACTIF 
+
+Nouvelle intégré MARKETER
+
+AMY DIONE: 78 175 67 81  ACTIVE
+
+Fin du liste

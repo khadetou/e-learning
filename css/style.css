@@ -1,0 +1,47 @@
+.bg
+{
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),url('../images/books.jpg') no-repeat center center;
+}
+.fr
+{
+    height: 40%;
+    background-color: transparent;
+}
+
+.row .col h1
+{
+    font-size: 4rem;
+}
+
+.form
+{
+    margin-top: 0px;
+}
+.form-container
+{
+    border: solid 1px;
+    padding: 70px 80px;
+    background: rgba(255, 255, 255, 0.6);
+    -webkit-box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.title,.form-container
+{
+    animation-name: anim;
+    animation-duration: 3s;
+}
+@keyframes anim
+{
+    0%
+    {
+        transform: translateY(-200px);
+        opacity: 0;
+    }
+    100%
+    {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

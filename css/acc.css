@@ -1,0 +1,33 @@
+
+.jumbotron
+{
+    background: url(../images/academy2_.jpg) no-repeat;
+    height: 100vh;
+}
+.jumbotron .app-btn
+{
+    width:30%;
+}
+
+.demo
+{
+    width: 100%;
+    padding: 3px;
+    border: 1px solid #ccc;
+}
+.ground
+{
+    background-color: #1caa98 ;
+    overflow: auto;
+}
+.l li{
+    font-size: 22px;
+    line-height: 2em;
+}
+.brand
+{
+    font-size: 2rem;
+    background: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
